@@ -79,7 +79,7 @@
        <tr>
         <th>Xlink2</th>
         <td>Wants to bind</td>
-        <td></td>
+        <td><strike>Wants to bind</strike></td>
         <td></td>
        </tr>
       </table>
